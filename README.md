@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sujitkumarmalik/sujitkumarmalik/blob/main/Sujit%20Kumar%20Malik.png)
 <h1 align="center">Hi 👋, I'm Sujit Kumar Malik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
